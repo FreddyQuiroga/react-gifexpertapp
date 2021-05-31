@@ -8,7 +8,8 @@ const GifExpertApp = () =>{
          //retorna el componente Principal
           return (
               <>
-              <h2> GifExpertApp</h2>
+              <h2> GifExpertApp es una Aplicacion Web que busca Gifs </h2>
+              <h3> probando Noelia :v </h3>
                {/* mandamos la funcion setcategoria al componente AddCategory */}
               <AddCategory setcategorias = { setcategorias } />
               <hr/>  
